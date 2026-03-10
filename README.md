@@ -1,2 +1,2 @@
-# Sports-Analytics-
+# Sports-Analytics
 Sports analytics web app 
